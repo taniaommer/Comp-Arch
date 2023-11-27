@@ -1,0 +1,8 @@
+b phase_8
+b phase_9
+r answer.txt
+b *0x5655782f
+b *0x56557846
+b *0x565578f7
+b *0x56557cf8
+disas read_six_numbers
