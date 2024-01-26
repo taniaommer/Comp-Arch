@@ -1,8 +1,0 @@
-absent
-inserted
-absent
-inserted
-absent
-deleted
-absent
-present
